@@ -1,0 +1,32 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+uv.lock
+
+# Data
+data/
+*.csv
+*.parquet
+
+# Jupyter cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Models
+*.pkl
+*.joblib
+*.h5
+*.bin
+
+# Logs
+*.log
+.env
+.txt
