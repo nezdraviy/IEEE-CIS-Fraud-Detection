@@ -43,4 +43,5 @@
 ├── src/                    # Техническая папка
 ├── pyproject.toml          # Конфигурация зависимостей и проекта (uv)
 ├── README.md               # Описание проекта
-└── LICENSE                 # MIT License
+├── LICENSE                 # MIT License
+└── Dockerfile              # Конфигурация контейнера
