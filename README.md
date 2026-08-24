@@ -8,6 +8,9 @@
 Репозиторий содержит полное решение для соревнования [IEEE-CIS Fraud Detection (Kaggle, 2019)](https://www.kaggle.com/competitions/ieee-fraud-detection/overview). 
 Проект реализует end-to-end пайплайн обработки транзакционных данных с использованием **GPU-ускорения (RAPIDS cuDF/cuML)**, продвинутого Feature Engineering и ансамбля градиентных бустингов с настройкой через Optuna.
 
+**Результат Private/Public LB:**
+<img width="1660" height="194" alt="image" src="https://github.com/user-attachments/assets/fe1111d8-6e32-4bed-9b6e-4a234da12381" />
+
 ## Ключевые особенности
 
 * **GPU-Accelerated EDA & FE:** Использование `cudf` и `cuml` для молниеносной обработки миллионов строк и PCA прямо на видеокарте.
